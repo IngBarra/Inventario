@@ -1,0 +1,2 @@
+# Inventario
+Prueba practica
